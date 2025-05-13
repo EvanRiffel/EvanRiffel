@@ -4,7 +4,7 @@ In development...  Volleyball Sideline Stat Tracker!!!👋
 Release target...  September 1st, 2025
 <BR>
 <BR>
-I am currently developing a volleyball sideline statistic tracking app using React, React Native, Bootstrap, ASP.NET and MS SQL to be used by varsity teams and coaching staff.  I will be developing two interfaces; one developed for Android and iOS devices using React Native and the other being web based for desktop computers. Both interfaces will connect to a MS SQL server to keep data persistent from match to match.
+I am currently developing a volleyball sideline statistic tracking app using React, React Native, Bootstrap, .NET and MS SQL to be used by varsity teams and coaching staff.  I will be developing two interfaces; one developed for Android and iOS devices using React Native and the other being web based for desktop computers. Both interfaces will connect to a MS SQL server to keep data persistent from match to match.
 <BR>
 <BR>
 <img src="MainScreen.png" alt="Main Screen">
