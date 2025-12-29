@@ -26,20 +26,44 @@
     </tbody>
 </table>
 
-
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>&nbsp;</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>This app was developed solely by me for SportsCan as part of a paid 4 month co-op internship.</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Technologies, Frameworks and Languages Used:&nbsp;</strong><em>React Native, JavaScript, TypeScript, CSS, Supabase, SQL, RevenueCat</em></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>App Development Details:</strong></p>
+<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+    <ul style="margin-bottom:0cm;list-style-type: disc;">
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Hired to design and develop a volleyball sideline statistic tracking mobile app for Android and iOS devices for my and other varsity teams and coaching staff.&nbsp;</span></li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'><span style='font-family:"Arial",sans-serif;color:black;'>Worked with Trent Men&rsquo;s Volleyball coaching staff to identify requirements regarding data elements and report generation.</span></span></li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>Data is stored locally and on an SQL server for data persistence and advanced analytics through desktop devices.</span></li>
+    </ul>
+</div>
 
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>&nbsp;</strong></p>
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
     <tbody>
         <tr>
-            <td style="width: 50.0000%;"><br></td>
-                        <td rowspan="2" style="width: 134.7pt;padding: 0cm 5.4pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:12.75pt;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong><img src="main_Screen.jpg" alt="image"></strong></p>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0364.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="main_Screen.jpg" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
             </td>
         </tr>
         <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0356.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0358.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -110,38 +134,93 @@
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:36.0pt;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;margin:0cm;'><strong><em><span style="color:#3B7D23;">Move beyond the clipboard into the future of volleyball analytics. Get the data you need to elevate team development and help every athlete reach their potential.<br>&nbsp;<br>&nbsp;Our focus isn&apos;t just winning&mdash;it&apos;s creating a culture of continuous improvement through meaningful data and actionable insights.</span></em></strong></p>
 
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:36.0pt;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;margin:0cm;'><br></p>
-<table style="width: 100%;" class="fr-table-selection-hover">
+
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
     <tbody>
         <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0359.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0357.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
         <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0360.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0361.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
-        <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+         <tr>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0362.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0363.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
-        <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+         <tr>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0365.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0366.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
-        <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+         <tr>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0367.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0368.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
-        <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+         <tr>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0369.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0370.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
-        <tr>
-            <td style="width: 50.0000%;"><br></td>
-            <td style="width: 50.0000%;"><br></td>
+         <tr>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0371.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
+            <td style="width: 50%; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin: 0cm 0cm 12.75pt 0cm; line-height: normal; font-size: 16px; font-family: "Aptos", sans-serif;'>
+                    <strong><img src="IMG_0372.png" alt="image" style="width: 100%; height: auto;"></strong>
+                </p>
+            </td>
         </tr>
     </tbody>
 </table>
-
-
-            
