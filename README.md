@@ -17,7 +17,7 @@
         <tr>
             <td style="width: 350.95pt; padding: 0cm 5.4pt; vertical-align: top; border: none;">
                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>
-                    <a href="https://apps.apple.com/ca/app/volleyball-stat-tracker/id6751239025?platform=ipad">
+                    <a href="https://apps.apple.com/ca/app/volleyball-stat-tracker/id6751239025">
                         <strong><img width="202" height="67" src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="image"></strong>
                     </a>
                 </p>
