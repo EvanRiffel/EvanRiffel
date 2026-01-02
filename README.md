@@ -28,7 +28,7 @@
 
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>&nbsp;</strong></p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>This app was developed solely by me for SportsCan as part of a paid 4 month co-op internship.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Technologies, Frameworks and Languages Used:&nbsp;</strong><em>React Native, JavaScript, TypeScript, CSS, Supabase, SQL, RevenueCat</em></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Technologies, Frameworks and Languages Used:&nbsp;</strong><em>React Native, JavaScript, TypeScript, CSS, Node.js, Supabase, SQL, RevenueCat</em></p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>App Development Details:</strong></p>
 <div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
     <ul style="margin-bottom:0cm;list-style-type: disc;">
