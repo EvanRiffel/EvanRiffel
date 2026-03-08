@@ -36,13 +36,13 @@
             <span style='font-family:"Arial",sans-serif;color:black;'>Collaborated with Trent Men’s Volleyball coaching staff to identify complex requirements and KPIs (Key Performance Indicators) for data elements, database validation, and automated report generation.</span>
         </li>
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
-            <span style='font-family:"Arial",sans-serif;color:black;'>Designed and developed an Android/iOS mobile app (Expo, Node.js, React Native, TypeScript) along with a Supabase (PostgreSQL BaaS) back-end to inform varsity coaching staff regarding in-game strategy.</span>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Designed and developed an Android/iOS mobile app along with a Supabase back-end to inform varsity coaching staff regarding in-game strategy.</span>
         </li>
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
             <span style='font-family:"Arial",sans-serif;color:black;'>Architected relational and logical data models featuring complex entities and relationships to capture, transform, and track player metrics, match rotations, and performance indicators.</span>
         </li>
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
-            <span style='font-family:"Arial",sans-serif;color:black;'>Developed a secure mobile authentication system using OAuth (Google & Apple Sign-In) and Supabase, implementing JWT-based Row Level Security to ensure multi-tenant data isolation and secure user access.</span>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Developed a secure mobile authentication system implementing JWT-based Row Level Security to ensure multi-tenant data isolation and secure user access.</span>
         </li>
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
             <span style='font-family:"Arial",sans-serif;color:black;'>Integrated RevenueCat for cross-platform subscription management and utilized Sentry for real-time error tracking and crash reporting.</span>
@@ -51,7 +51,7 @@
             <span style='font-family:"Arial",sans-serif;color:black;'>Engineered data transformation pipelines to clean and aggregate raw in-game inputs into standardized formats, improving data quality and scalability for real-time analytics.</span>
         </li>
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
-            <span style='font-family:"Arial",sans-serif;color:black;'>Designed and implemented interactive performance dashboards utilizing React Native charting libraries to visualize key metrics on player performance trends, ensuring data visualizations effectively provided actionable insights based on KPIs for real-time tactical adjustments.</span>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Designed and implemented interactive performance dashboards to visualize key metrics on player performance trends, ensuring data visualizations effectively provided actionable insights based on KPIs for real-time tactical adjustments.</span>
         </li>
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
             <span style='font-family:"Arial",sans-serif;color:black;'>Automated the generation of post-match and post-season analytical reports, transforming raw event data into structured visual summaries that reduced coaching staff prep time.</span>
