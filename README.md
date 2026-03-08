@@ -32,14 +32,6 @@
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>App Development Details:</strong></p>
 <div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
     <ul style="margin-bottom:0cm;list-style-type: disc;">
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Hired to design and develop a volleyball sideline statistic tracking mobile app for Android and iOS devices for my and other varsity teams and coaching staff.&nbsp;</span></li>
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'><span style='font-family:"Arial",sans-serif;color:black;'>Worked with Trent Men&rsquo;s Volleyball coaching staff to identify requirements regarding data elements and report generation.</span></span></li>
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>Data is stored locally and on an SQL server for data persistence and advanced analytics through desktop devices.</span></li>
-    </ul>
-</div>
-
-<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;">
         <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
             <span style='font-family:"Arial",sans-serif;color:black;'>Collaborated with Trent Men’s Volleyball coaching staff to identify complex requirements and KPIs (Key Performance Indicators) for data elements, database validation, and automated report generation.</span>
         </li>
