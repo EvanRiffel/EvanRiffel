@@ -38,6 +38,41 @@
     </ul>
 </div>
 
+<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+    <ul style="margin-bottom:0cm;list-style-type: disc;">
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Collaborated with Trent Men’s Volleyball coaching staff to identify complex requirements and KPIs (Key Performance Indicators) for data elements, database validation, and automated report generation.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Designed and developed an Android/iOS mobile app (Expo, Node.js, React Native, TypeScript) along with a Supabase (PostgreSQL BaaS) back-end to inform varsity coaching staff regarding in-game strategy.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Architected relational and logical data models featuring complex entities and relationships to capture, transform, and track player metrics, match rotations, and performance indicators.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Developed a secure mobile authentication system using OAuth (Google & Apple Sign-In) and Supabase, implementing JWT-based Row Level Security to ensure multi-tenant data isolation and secure user access.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Integrated RevenueCat for cross-platform subscription management and utilized Sentry for real-time error tracking and crash reporting.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Engineered data transformation pipelines to clean and aggregate raw in-game inputs into standardized formats, improving data quality and scalability for real-time analytics.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Designed and implemented interactive performance dashboards utilizing React Native charting libraries to visualize key metrics on player performance trends, ensuring data visualizations effectively provided actionable insights based on KPIs for real-time tactical adjustments.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Automated the generation of post-match and post-season analytical reports, transforming raw event data into structured visual summaries that reduced coaching staff prep time.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Deployed on-time for live match use on September 1st of the 2025-26 USport season, ensuring high-impact performance through rigorous functional, regression and usability testing.</span>
+        </li>
+        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Aptos",sans-serif;'>
+            <span style='font-family:"Arial",sans-serif;color:black;'>Produced documentation for future developers and users inclusive of Gantt charts, code comments, technical design documents, marketing documents and operational documents.</span>
+        </li>
+    </ul>
+</div>
+
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>&nbsp;</strong></p>
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tbody>
