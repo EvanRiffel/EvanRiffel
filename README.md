@@ -251,3 +251,82 @@
         </tr>
     </tbody>
 </table>
+
+
+<!-- -------------------------------------------------------------------------------------------------------------- -->
+
+<table style="margin-left: -0.3pt; border-collapse: collapse; border: none; width: 648px;">
+    <tbody>
+        <tr>
+            <td rowspan="2" style="width: 134.7pt; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:12.75pt;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>
+                    <strong><img width="136" height="136" src="1024x1024ia.png" alt="image"></strong>
+                </p>
+            </td>
+            <td style="width: 350.95pt; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>
+                    <a href="https://play.google.com/store/apps/details?id=com.sportscan.volleyballStatTrackerAppOfficial&hl=en_CA">
+                        <strong><img width="200" height="59" src="GetItOnGooglePlay_Badge_Web_color_English.png" alt="image"></strong>
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 350.95pt; padding: 0cm 5.4pt; vertical-align: top; border: none;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>
+                    <a href="https://apps.apple.com/ca/app/volleyball-stat-tracker/id6751239025">
+                        <strong><img width="202" height="67" src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="image"></strong>
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="vertical-align: top;">
+        
+        <td style="width: 60%; padding-right: 20px; border: none;">
+            <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'>This full stack app was developed solely by me for SportsCan as part of a paid 4 month co-op internship.</p>
+            <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>Technologies, Frameworks and Languages Used:&nbsp;</strong><em>React Native, JavaScript, TypeScript, CSS, Node.js, Supabase (PostgreSQL BaaS), OAuth2/JWT, Sentry, RevenueCat, Visual Studio Code, npm, Expo</em></p>
+            <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:16px;font-family:"Aptos",sans-serif;'><strong>App Development Details:</strong></p>
+            
+            <ul style="margin-bottom:0cm;list-style-type: disc; margin-left: 20px;">
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Collaborated with Trent Men’s Volleyball coaching staff to identify complex requirements and KPIs (Key Performance Indicators) for data elements, database validation, and automated report generation.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Designed and developed an Android/iOS mobile app along with a Supabase back-end to inform varsity coaching staff regarding in-game strategy.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Architected relational and logical data models featuring complex entities and relationships to capture, transform, and track player metrics, match rotations, and performance indicators.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Developed a secure mobile authentication system implementing JWT-based Row Level Security to ensure multi-tenant data isolation and secure user access.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Integrated RevenueCat for cross-platform subscription management and utilized Sentry for real-time error tracking and crash reporting.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Engineered data transformation pipelines to clean and aggregate raw in-game inputs into standardized formats, improving data quality and scalability for real-time analytics.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Designed and implemented interactive performance dashboards to visualize key metrics on player performance trends, ensuring data visualizations effectively provided actionable insights based on KPIs for real-time tactical adjustments.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Automated the generation of post-match and post-season analytical reports, transforming raw event data into structured visual summaries that reduced coaching staff prep time.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Deployed on-time for live match use on September 1st of the 2025-26 USport season, ensuring high-impact performance through rigorous functional, regression and usability testing.</span></li>
+                <li style='margin-bottom:8.0pt;font-size:11.0pt;font-family:"Aptos",sans-serif;'><span style='font-family:"Arial",sans-serif;color:black;'>Produced documentation for future developers and users inclusive of Gantt charts, code comments, technical design documents, marketing documents and operational documents.</span></li>
+            </ul>
+
+            <p style='margin: 10px 0; font-size:16px;font-family:"Aptos",sans-serif;'><strong>Stop Guessing! Start Tracking!</strong><br>Unlock your team's full potential with the ultimate volleyball stat tracker...</p>
+            <p style='margin: 10px 0; font-size:16px;font-family:"Aptos",sans-serif;'><strong>Key Features:</strong></p>
+            </td>
+
+        <td style="width: 40%; vertical-align: top; border: none;">
+            <img src="IMG_0364.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="main_Screen.jpg" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0356.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0358.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0359.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0357.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0360.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0361.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0362.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0363.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0365.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0366.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0367.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0368.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0369.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0370.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0371.png" style="width: 100%; margin-bottom: 10px;">
+            <img src="IMG_0372.png" style="width: 100%; margin-bottom: 10px;">
+        </td>
+    </tr>
+</table>
