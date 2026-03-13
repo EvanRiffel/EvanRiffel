@@ -4,7 +4,6 @@
 <!-- LEFT COLUMN : ALL TEXT CONTENT -->
 <td width="60%" valign="top">
 
-<!-- KEEP YOUR EXISTING HEADER TABLE -->
 <table>
 <tr>
 <td rowspan="2">
@@ -27,7 +26,7 @@
 </tr>
 </table>
 
-<br>
+
 
 <p>
 This full stack app was developed solely by me for SportsCan as part of a paid 4 month co-op internship.
@@ -38,6 +37,14 @@ This full stack app was developed solely by me for SportsCan as part of a paid 4
 React Native, JavaScript, TypeScript, CSS, Node.js, Supabase (PostgreSQL BaaS),
 OAuth2/JWT, Sentry, RevenueCat, Visual Studio Code, npm, Expo
 </p>
+
+
+## **Project Gantt Chart**
+
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/Gantt%20Chart%20Full.png">
+  <img src="Gantt Chart Full.png" width="420" alt="Project Gantt Chart" title="Click to view full-screen">
+</a>
+
 
 <p><b>App Development Details:</b></p>
 
