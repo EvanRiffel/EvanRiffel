@@ -34,8 +34,8 @@ OAuth2/JWT, Sentry, RevenueCat, Visual Studio Code, npm, Expo
 
 #### **Project Gantt Chart**
 
-<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/Gantt%20Chart%20Full.png">
-  <img src="Gantt Chart Full.png" width="100%" style="max-width=420px;" alt="Project Gantt Chart" title="Click to view full-screen">
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/Gantt%20Chart%20Full%20Page.png">
+  <img src="Gantt Chart Full Page.png" width="100%" style="max-width=420px;" alt="Project Gantt Chart" title="Click to view full-screen">
 </a>
 
 
