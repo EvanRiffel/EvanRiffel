@@ -77,42 +77,41 @@ OAuth2/JWT, Sentry, RevenueCat, Visual Studio Code, npm, Expo
 
 <!-- RIGHT COLUMN : ALL SCREENSHOTS -->
 <td width="40%" valign="top">
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0364.png"><img src="IMG_0364.png" width="420"></a><br><br>
 
-<a href="IMG_0364.png"><img src="IMG_0364.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/main_Screen.jpg"><img src="main_Screen.jpg" width="420"></a><br><br>
 
-<a href="main_Screen.jpg"><img src="main_Screen.jpg" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0356.png"><img src="IMG_0356.png" width="420"></a><br><br>
 
-<a href="IMG_0356.png"><img src="IMG_0356.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0358.png"><img src="IMG_0358.png" width="420"></a><br><br>
 
-<a href="IMG_0358.png"><img src="IMG_0358.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0359.png"><img src="IMG_0359.png" width="420"></a><br><br>
 
-<a href="IMG_0359.png"><img src="IMG_0359.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0357.png"><img src="IMG_0357.png" width="420"></a><br><br>
 
-<a href="IMG_0357.png"><img src="IMG_0357.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0360.png"><img src="IMG_0360.png" width="420"></a><br><br>
 
-<a href="IMG_0360.png"><img src="IMG_0360.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0361.png"><img src="IMG_0361.png" width="420"></a><br><br>
 
-<a href="IMG_0361.png"><img src="IMG_0361.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0362.png"><img src="IMG_0362.png" width="420"></a><br><br>
 
-<a href="IMG_0362.png"><img src="IMG_0362.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0363.png"><img src="IMG_0363.png" width="420"></a><br><br>
 
-<a href="IMG_0363.png"><img src="IMG_0363.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0365.png"><img src="IMG_0365.png" width="420"></a><br><br>
 
-<a href="IMG_0365.png"><img src="IMG_0365.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0366.png"><img src="IMG_0366.png" width="420"></a><br><br>
 
-<a href="IMG_0366.png"><img src="IMG_0366.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0367.png"><img src="IMG_0367.png" width="420"></a><br><br>
 
-<a href="IMG_0367.png"><img src="IMG_0367.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0368.png"><img src="IMG_0368.png" width="420"></a><br><br>
 
-<a href="IMG_0368.png"><img src="IMG_0368.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0369.png"><img src="IMG_0369.png" width="420"></a><br><br>
 
-<a href="IMG_0369.png"><img src="IMG_0369.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0370.png"><img src="IMG_0370.png" width="420"></a><br><br>
 
-<a href="IMG_0370.png"><img src="IMG_0370.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0371.png"><img src="IMG_0371.png" width="420"></a><br><br>
 
-<a href="IMG_0371.png"><img src="IMG_0371.png" width="420"></a><br><br>
-
-<a href="IMG_0372.png"><img src="IMG_0372.png" width="420"></a><br><br>
+<a href="https://raw.githubusercontent.com/EvanRiffel/EvanRiffel/main/IMG_0372.png"><img src="IMG_0372.png" width="420"></a><br><br>
 
 </td>
 
